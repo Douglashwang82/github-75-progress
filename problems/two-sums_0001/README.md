@@ -4,7 +4,7 @@ Given an array of integers `nums` and an integer `target`, return indices of the
 
 You may assume that each input would have exactly one solution, and you may not use the same element twice.
 
-Return the answer in any
+Return the answer if any
 
 
 
@@ -13,7 +13,6 @@ Return the answer in any
 - `target`: target number
 
 ## Solutions
-
 **a. Brute Force Solution:**  
 1. Check every possible pair in the list.
 
