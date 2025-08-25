@@ -19,3 +19,5 @@
 18. Are there any constraints on the range of input values?
 19. Is parallel processing or multi-threading applicable?
 20. Are there any mathematical properties or patterns
+21. Two pointers: head and tail, slow and fast.
+
