@@ -13,7 +13,11 @@ Given a string `s`, return `true` if it is a palindrome, or false otherwise.
 
 **a. Brute Force**
 - Filtering not alphanumeric character
-- Use head and tail pointers
-- Compare each character one by one
+- Create an reversed string
+- Compare each character between two strings
 
-**b. Two Pointers**`
+**b. Two Pointers**
+- Filtering not alphanumeric character
+- Head and Tail
+- Compare each character until two pointers meet
+  
